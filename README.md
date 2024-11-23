@@ -1,7 +1,9 @@
 # 🚀 Complete AI Learning Guide
 
 ![AI GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlpZnkwdDAxNWVxbzZ4dGE4amk5NGVhdGF2NXJzODd6MjVyOHMxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0R7AQsnA3yIUcbvztz/giphy.gif)  
-*(Artificial Intelligence: The future is now!)*
+
+
+*Artificial Intelligence: The future is now!*
 
 ---
 
